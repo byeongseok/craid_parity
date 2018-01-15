@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\workspace\\ionicProject\\Craid_0111\\Craid\\craidFile\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\3bfab4f835e453dbcad798adf4ab1b61\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\1_work\\1_soc\\2_workspace\\IonicProject\\Craid\\craidFile\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kwon\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\f93b921eb05ae364b9312e12cffbc80a\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\1_work\\1_soc\\2_workspace\\IonicProject\\craidFile\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kwon\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\f93b921eb05ae364b9312e12cffbc80a\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\workspace\\ionicProject\\craidFile\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\3bfab4f835e453dbcad798adf4ab1b61\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\1_work\\1_soc\\2_workspace\\IonicProject\\Craid_0111_home\\Craid\\craidFile\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kwon\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\f93b921eb05ae364b9312e12cffbc80a\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}
